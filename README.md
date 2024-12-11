@@ -1,0 +1,1 @@
+This repository demonstrates a common error encountered in Next.js 15 applications:  'Error: Route "/" did not export a valid Layout or default export'.  The issue arises when the root page (`pages/index.js`) doesn't correctly export a component or a Layout.  The solution shows the correct way to structure the component for the root page.
